@@ -278,9 +278,9 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="828.9903394976538" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="828.9903394976538" y="0" width="54.74799889594259" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="883.7383383935965" y="0" width="36.26166160640353" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="829.1157662624034" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="829.1157662624034" y="0" width="54.67254685777288" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="883.7883131201764" y="0" width="36.211686879823596" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -292,7 +292,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>90.11%</div>
+                                <div>90.12%</div>
                             </small>
                         </div>
                     </section>
@@ -305,7 +305,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>5.95%</div>
+                                <div>5.94%</div>
                             </small>
                         </div>
                     </section>
@@ -506,22 +506,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 53.81783729904171%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 53.82580543272268%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">67%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 19.209095305298685%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 19.200094756790904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">24%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 6.121961569966544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.122867972204674%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.8511058256930532%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.8512318382817435%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -2538,7 +2538,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jan 2022, 13:15:27 (timezone Europe/Bratislava) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 19:07:09 (timezone Europe/Bratislava) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
