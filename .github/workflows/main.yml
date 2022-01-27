@@ -24,7 +24,7 @@ jobs:
           commits_authoring: emptyloominaty
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_days: 1000
+          plugin_habits_days: 28
           plugin_habits_facts: no
           plugin_habits_from: 300
           plugin_isocalendar: yes
@@ -37,7 +37,7 @@ jobs:
           #plugin_languages_ignored: html, css  
           plugin_languages_limit: 12
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 25
+          plugin_languages_recent_days: 28
           plugin_languages_recent_load: 500
           plugin_languages_sections: most-used, recently-used   
           plugin_languages_threshold: 0%
