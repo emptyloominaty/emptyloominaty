@@ -290,10 +290,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="567.4409877738773" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="567.4409877738773" y="0" width="334.9352378646653" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="902.3762256385426" y="0" width="11.053141266190533" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="913.4293669047331" y="0" width="6.570633095266916" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="567.4753344228557" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="567.4753344228557" y="0" width="334.8998244658314" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="902.3751588886871" y="0" width="11.053810302039828" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="913.4289691907269" y="0" width="6.571030809273046" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -318,7 +318,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>36.41%</div>
+                                <div>36.4%</div>
                             </small>
                         </div>
                     </section>
@@ -531,22 +531,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 49.213123660619964%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 49.25326244562591%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">62%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Java</span>
-                                <div class="bar" style="width: 29.15698288611874%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 29.115514741420977%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.9586188162144216%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9594006766553891%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.569859044399505%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5703238279362011%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1897,7 +1897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2022, 08:54:10 (timezone Europe/Bratislava) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Oct 2022, 20:23:20 (timezone Europe/Bratislava) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
