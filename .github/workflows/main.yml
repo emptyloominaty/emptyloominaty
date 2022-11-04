@@ -31,7 +31,7 @@ jobs:
           plugin_languages_analysis_timeout: 60
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_details: percentage
           plugin_languages_indepth: yes
           #plugin_languages_details: percentage
           #plugin_languages_ignored: html, css  
