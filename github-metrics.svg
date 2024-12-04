@@ -192,7 +192,7 @@
                     <rect mask="url(#languages-bar)" x="863.5234514516807" y="0" width="23.014925849300298" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="886.538377300981" y="0" width="11.52394367124392" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="898.0623209722248" y="0" width="11.51730478392346" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="909.5796257561483" y="0" width="8.246546297377082" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="909.5796257561483" y="0" width="8.246546297377082" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="917.8261720535254" y="0" width="2.1738279464746673" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
@@ -259,7 +259,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 CSS
                             </div>
@@ -755,6 +755,7 @@
                                 <g transform="translate(720, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -2656,7 +2657,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 07:30:43 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 07:30:10 (timezone Europe/Bratislava) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
