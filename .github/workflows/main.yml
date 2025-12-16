@@ -37,7 +37,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 28
           plugin_languages_recent_load: 500
-          plugin_languages_sections: most-used, recently-used   
+          plugin_languages_sections: most-used #, recently-used   
           plugin_languages_threshold: 0%
           plugin_calendar: yes
           plugin_calendar_limit: 0
